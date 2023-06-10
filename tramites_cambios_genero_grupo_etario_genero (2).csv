@@ -1,0 +1,13 @@
+genero,edad_grupos,cantidad_cambios_genero
+F,0-17,118
+F,18 a 29,2063
+F,30 a 39,2485
+F,40 y mas,2969
+M,0-17,380
+M,18 a 29,2693
+M,30 a 39,879
+M,40 y mas,379
+X,0-17,27
+X,18 a 29,207
+X,30 a 39,85
+X,40 y mas,35
